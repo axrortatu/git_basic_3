@@ -3,4 +3,4 @@ second line
 first line
 
 
-third line
+here is conflict
